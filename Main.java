@@ -2,6 +2,9 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world! From Amy!");
         System.out.println("Welcome to CS 112!");
+
+        System.out.println("Jan 29 class");
+        
         printNumber();
     }
 //static method returns a number times ten
