@@ -17,4 +17,6 @@ public class Main {
         System.out.println("Number " + number +" times 10 equals to " + timesTen(number));
     }
 
+    //comment
+    System.out.println("Change");
 }
